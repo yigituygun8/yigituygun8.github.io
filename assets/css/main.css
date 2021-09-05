@@ -71,7 +71,10 @@ input, select, textarea {
 	appearance: none;
 }
 
-
+#img{
+	position: relative;
+	left:100px;
+	}
  
 /* Basic */
 
