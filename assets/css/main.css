@@ -2969,7 +2969,7 @@ input, select, textarea {
 			}
 
 				.split > * {
-					border-top: solid 1px rgba(255, 255, 255, 0.15);
+					
 					margin: 4em 0 0 0;
 					padding: 4em 0 0 0;
 					width: 100% !important;
