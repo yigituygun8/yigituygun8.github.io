@@ -60,7 +60,8 @@ mark {
 }
 
 input::-moz-focus-inner {
-	border: 0;
+	
+	: 0;
 	padding: 0;
 }
 
@@ -2927,7 +2928,7 @@ input, select, textarea {
 
 		.split > :nth-child(2n - 1) {
 			padding-right: 2.5em;
-			border-right: solid 1px rgba(255, 255, 255, 0.15);
+			
 		}
 
 		.split > :nth-child(2n) {
